@@ -2,7 +2,7 @@
 this is the project submitted to ybi foundation.
 
 
-submitted by : Threyan Tiwari
+submitted by : Shreyan Tiwari
 Internship project
 date (02-07-2025)
 
